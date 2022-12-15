@@ -1,0 +1,15 @@
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/Zadacha4.csproj.AssemblyReference.cache
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/Zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/Zadacha4.AssemblyInfoInputs.cache
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/Zadacha4.AssemblyInfo.cs
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/Zadacha4.csproj.CoreCompileInputs.cache
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/bin/Debug/net7.0/Zadacha4
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/bin/Debug/net7.0/Zadacha4.deps.json
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/bin/Debug/net7.0/Zadacha4.runtimeconfig.json
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/bin/Debug/net7.0/Zadacha4.dll
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/bin/Debug/net7.0/Zadacha4.pdb
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/Zadacha4.dll
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/refint/Zadacha4.dll
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/Zadacha4.pdb
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/Zadacha4.genruntimeconfig.cache
+/Users/antonderevagin/Documents/SeminarDz5/Zadacha4/obj/Debug/net7.0/ref/Zadacha4.dll
