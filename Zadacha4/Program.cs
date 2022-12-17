@@ -6,15 +6,15 @@ FillArrayRandomNumbers(array);
 int max = array[0];
 int min = array[0];
 
-for (int i = 0; i < numbers.Length; i++)
+for (int i = 0; i < array.Length; i++)
 {
-    if (numbers[i] > max)
+    if (array[i] > max)
     {
-        max = numbers[i];
+        max = array[i];
     }
-    else if (numbers[i] < min)
+    else if (array[i] < min)
     {
-        min = numbers[i];
+        min = array[i];
     }
 }
 
